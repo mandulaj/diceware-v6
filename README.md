@@ -1,5 +1,7 @@
 # diceware-v6
 Next generation diceware password generator - randomness guaranteed!!!
+![](http://imgs.xkcd.com/comics/password_strength.png)
+[XKCD nailed it...](https://xkcd.com/936/)
 
 ####WTF is this???
 Diceware is a popular and fun way of generating military grade passwords that are **money-back-guaranteed** to be to be random!!! Most diceware password list only provide 7776 words of which many are short or contain special characters (yikes). `diceware-v6` brings a revolution by introducing the extended **46656** word-list with words up to 10 characters long.
