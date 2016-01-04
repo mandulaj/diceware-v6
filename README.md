@@ -8,8 +8,8 @@ Diceware is a popular and fun way of generating military grade passwords that ar
 
 Diceware is very easy to use. All you need is a die. It can help to get hold of 6 dice in order to speed up the RNG (1 die runs out of entropy very quickly).
 
-1. Download and verify the signed diceware file from [`https://raw.githubusercontent.com/zpiman/diceware-v6/master/diceware-v6.txt.asc`](https://raw.githubusercontent.com/zpiman/diceware-v6/master/diceware-v6.txt.asc)
-2. Roll the die 6 times and record numbers eg. `131512` - alternatively you can roll 6 dice at once
+1. Download and verify the signed diceware file from [`https://raw.githubusercontent.com/zpiman/diceware-v6/master/diceware-v6.txt.asc`](https://raw.githubusercontent.com/zpiman/diceware-v6/master/diceware-v6.txt.asc) - *You can also download the 6pg PDF and print it out in font-size 2* 
+2. Roll the die 6 times and record numbers eg. `131512` - *alternatively you can roll 6 dice at once*
 3. Look up the word corresponding to the number in the diceware file.
 4. This is the first word of your password eg.`131512 awesome`
 5. Repeat the steps 2-4 until you have a password of the desired length. 6 or more words are going to provide a better-than-good password. Check the section below for information on security.
