@@ -19,6 +19,18 @@ Diceware is very easy to use. All you need is a die. It can help to get hold of 
 4. This is the first word of your password eg.`131512 awesome`
 5. Repeat the steps 2-4 until you have a password of the desired length. 6 or more words are going to provide a better-than-good password. Check the section below for information on security.
 
+####Example
+
+Make 7x6 rolls
+* `311162` - fitness
+* `512331` - pronoun
+* `143332` - blunts
+* `642514` - tyrannic
+* `521512` - ravage
+* `653245` - venomously
+* `624613` - tasted
+
+**Password:** `"fitness pronoun blunts tyrannic ravage venomously tasted"`
 ####Security
 
 46656 words might seam like a very small number to be considered secure. However the power of diceware comes from the number of words. There are 46656 was to choose 1 word, however 2176782336 ways to choose 2 words. The more words are added, the more secure the password.
