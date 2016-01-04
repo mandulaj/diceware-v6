@@ -33,7 +33,7 @@ Make 7x6 rolls
 **Password:** `"fitness pronoun blunts tyrannic ravage venomously tasted"`
 ####Security
 
-46656 words might seam like a very small number to be considered secure. However the power of diceware comes from the number of words. There are 46656 was to choose 1 word, however 2176782336 ways to choose 2 words. The more words are added, the more secure the password.
+46656 words might seam like a very small number to be considered secure. However the power of diceware comes from the number of consecutive words. There are 46656 ways to choose 1 word, however 2176782336 ways to choose 2 words. The more words are added, the more ways to arrange them and thus the more secure the password.
 
 #####This table shows the security of different password lengths. Anything in *bold* is imo overkill....
 
