@@ -18,7 +18,14 @@ Diceware is very easy to use. All you need is a die. It can help to get hold of 
 3. Look up the word corresponding to the number in the diceware file.
 4. This is the first word of your password eg.`131512 awesome`
 5. Repeat the steps 2-4 until you have a password of the desired length. 6 or more words are going to provide a better-than-good password. Check the section below for information on security.
-6. Remember the password well and securely discard any paper which you use to write this password down. I prefer tearing the paper to bits and then burning them one by one. The ash I dissolve in hydrochloric acid. I strongly dilute the solution with water and use it to water my garden.  
+6. Remember the password well and securely discard any paper which you use to write this password down. I prefer tearing the paper to bits and then burning them one by one. The ash I dissolve in hydrochloric acid. I strongly dilute the solution with water and use it to water my garden.
+
+#####Alternatively
+You can also run this command in your shell. However this method is ***not very secure!!!!***
+```bash
+$ cd scripts
+$ ./dice.py
+```
 
 ####Example
 
