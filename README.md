@@ -1,5 +1,5 @@
 # diceware-v6
-Next generation diceware password generator - randomness guaranteed!!!
+NEXT generation diceware password generator - randomness guaranteed!!!
 
 [XKCD](https://xkcd.com/936/) nailed it....
 
